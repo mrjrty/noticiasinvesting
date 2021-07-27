@@ -1,6 +1,4 @@
 # noticiasinvesting
-
-
-Conecte o python ao banco de dados mysql
-Após isso é só executar o arquivo.
-O programa faz um scrapper nas noticias do site investing.
+Connect python to mysql database
+After that, just run the file.
+The program makes a scrapper on the investing site news.
